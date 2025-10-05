@@ -1,1 +1,1 @@
-# rsschool-cv
+print("hello World!")
